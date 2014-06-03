@@ -1,3 +1,4 @@
+![](http://i.imgur.com/ysMwi2B.png)
 # #maptime Chattanooga!
 
 *what is maptime and why is it a thing? read [@lyzidiamond's blog post](http://lyzidiamond.com/posts/why-maptime/)!*

@@ -25,6 +25,10 @@ come and participate!
 - if you work for a company who might be interested in sponsoring some food for an upcoming meeting,
   get in touch with us below!
 
+
+## is there a code of conduct?
+Yes, here is our [code of conduct](https://github.com/jden/chattanooga/blob/master/CODE_OF_CONDUCT.md), which we take seriously.
+
 ## who can I contact?
 
 we're on Twitter: [@maptimeCHA](https://twitter.com/maptimecha)

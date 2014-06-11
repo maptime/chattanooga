@@ -29,7 +29,7 @@ come and participate!
 
 
 ## is there a code of conduct?
-Yes, here is our [code of conduct](https://github.com/jden/chattanooga/blob/master/CODE_OF_CONDUCT.md), which we take seriously.
+Yes, here is our [code of conduct](https://github.com/maptime/chattanooga/blob/master/CODE_OF_CONDUCT.md), which we take seriously.
 
 ## who can I contact?
 

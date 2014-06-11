@@ -5,6 +5,8 @@
 
 A beginner-friendly community of learners for maps and geospatial goodness in Chattanooga, Tennessee.
 
+We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
+
 ## next meeting
 see [upcoming meetings](https://github.com/maptime/chattanooga/issues?labels=meeting&page=1&state=open)
 

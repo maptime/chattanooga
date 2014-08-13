@@ -16,7 +16,12 @@ We meet twice a month:
 - Second Tuesdays: Talks, Presentations, Demos
 - Fourth Tuesdays: Open Mapping Time! (with project show & tell)
 
-Location tbd.
+Location: 4th Floor of the Chattanooga Public Library.
+
+## stories
+
+- [Mapping our communities](http://log.jden.us/post/92635475332/mapping-our-communities) July 23, 2014
+- [Let's go on a journey](http://log.jden.us/post/88443430322/lets-go-on-a-journey) June 12, 2014
 
 ## how can I help?
 come and participate!

@@ -3,7 +3,7 @@
 
 *what is maptime and why is it a thing? read [@lyzidiamond's blog post](http://lyzidiamond.com/posts/why-maptime/)!*
 
-A beginner-friendly community of learners for maps and geospatial goodness in Chattanooga, Tennessee.
+A beginner-friendly community of learners for maps and geospatial projects in Chattanooga, Tennessee. We're part of a [larger network](http://maptime.io) of local mapping communities with [dozens of chapters](https://github.com/maptime/maptime-bites/blob/gh-pages/00004/maptimes.geojson)!
 
 We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
 

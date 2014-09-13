@@ -18,6 +18,7 @@ Starter is a simple Jekyll theme for MapTime meetups. Hosting your own meetup? S
 | maptime: chapter | Yes | Name of your MapTime meetup | |
 | maptime: twitter | No | Your MapTime Twitter username | |
 | maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
+3. Create a file named `CNAME` at the root folder of this repo to reflect your city's chapter. Add the text `maptime.io/` and your city's name. Example: `maptime.io/portland`. No other formatting is needed and you won't need the `http:` or any other text here.
 
 ### Content types
 

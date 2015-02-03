@@ -17,7 +17,7 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
 | github_org | Yes | Name of the organization or username on GitHub | Most of the time this will be 'maptime' |
 | maptime: chapter | Yes | Name of your MapTime meetup | |
 | maptime: twitter | No | Your MapTime Twitter username | |
-| maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
+| maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](http://disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
 
 To get your site live, you will need to create a file named `CNAME` at the root folder of this repo to reflect your city's chapter. Add the text `maptime.io/` and your city's name. Example: `maptime.io/portland`. No other formatting is needed and you won't need the `http:` or any other text here.
 
@@ -28,20 +28,20 @@ There are two kinds of content in Starter: post and event. You author these type
 #### Event
 Events are for actual planned meetups with RSVP information. Note that the filename of the post should match the date of the meetup date.
 
-##### Fronmatter options
+##### Frontmatter options
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
 | layout | Yes | event | This value should always be the same. |
 | category | Yes | event | This value should always be the same. |
 | title | Yes | The title of your event | |
-| rsvp | Yes | URL to rsvp | This should be a link to  an [Eventbrite](eventbrite.com) date or other service. |
+| rsvp | Yes | URL to rsvp | This should be a link to  an [Eventbrite](http://eventbrite.com) date or other service. |
 
 #### Posts
 
 Posts are like blog posts. These are great for meetup follow ups or posts that don't have a meetup event tied to it.
 
-##### Fronmatter options
+##### Frontmatter options
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
@@ -53,13 +53,14 @@ Posts are like blog posts. These are great for meetup follow ups or posts that d
 ## Help resources
 
 - [Create an issue](https://github.com/maptime/starter/issues) on the Starter repo and we'll respond to it.
-- The site is powered by Jekyll. To make custom tweaks to your own site, you should read it's [documentation](http://jekyllrb.com).
+- The site is powered by Jekyll. To make custom tweaks to your own site, you should read it's [documentation](http://jekyllrb.com/docs/home/).
 - Starter makes the assumption you will be running the site on GitHub pages. You can learn more about [GitHub Pages here](https://guides.github.com/features/pages/). 
 
 ## Examples in the wild
 
 Have you used this starter to create your own meetup site? Let us know and we can add it below!
 
+- [MaptimeDC](https://maptime.github.io/dc/)
 - [MaptimeTO](https://maptime.github.io/toronto/)
 
 ## Licence

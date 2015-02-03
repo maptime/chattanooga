@@ -69,9 +69,10 @@ h1 {
   }
 
 h2 {
-  font-size:34px;
+  font-size:32px;
   line-height:42px;
   margin-bottom:20px;
+  font-weight:500;
   }
 
 h3 {

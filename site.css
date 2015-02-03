@@ -2,8 +2,8 @@
 ---
 
 {% include base.css %}
+body, input, textarea { color:#404040; }
 h1 { font-size:32px; line-height:36px; }
-body { color:#404040; }
 
 a       { color:#279acb; }
 a:hover { text-decoration:underline; }
@@ -16,7 +16,7 @@ h2 a,
 h3 a,
 h4 a,
 h5 a,
-h6 a { color:#404040; }
+h6 a { color:#2699cb; }
 
 h1 a:hover,
 h2 a:hover,

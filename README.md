@@ -19,8 +19,6 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
 | maptime: twitter | No | Your MapTime Twitter username | |
 | maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](http://disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
 
-To get your site live, you will need to create a file named `CNAME` at the root folder of this repo to reflect your city's chapter. Add the text `maptime.io/` and your city's name. Example: `maptime.io/portland`. No other formatting is needed and you won't need the `http:` or any other text here.
-
 ### Content types
 
 There are two kinds of content in Starter: post and event. You author these types of content in the `_posts` directory. Each content type has unique configuration options that you should declare at the top of the document. This is called [Frontmatter](http://jekyllrb.com/docs/frontmatter/).

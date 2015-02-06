@@ -2,10 +2,11 @@
 
 Hosting your own meetup? Starter is desgined to be easily forked and tweaked to suit your own needs. Starter is a simple Jekyll theme for MapTime meetups. [Jekyll](http://jekyllrb.com/) is a simple, blog-aware, static site generator for personal, project, or organization sites.
 
-## Installation
+## Creating a new chapter
 
-1. [Fork this repo](https://github.com/maptime/starter/fork/).
-2. Edit the [`_config.yml`](https://github.com/maptime/starter/blob/gh-pages/_config.yml) file. Here's a quick rundown of the configuration options.
+1. [Create a ticket here](https://github.com/maptime/starter/issues/new/). Outline the name of your Maptime chapter and who the organizers are by their GitHub username.
+2. Assign the ticket or mention @geografa. He can create a new repository under the Maptime organization account and include your chapter's organizers to administer it.
+3. Edit the [`_config.yml`](https://github.com/maptime/starter/blob/gh-pages/_config.yml) file. Here's a quick rundown of the configuration options.
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
@@ -18,8 +19,6 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
 | maptime: chapter | Yes | Name of your MapTime meetup | |
 | maptime: twitter | No | Your MapTime Twitter username | |
 | maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](http://disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
-
-To get your site live, you will need to create a file named `CNAME` at the root folder of this repo to reflect your city's chapter. Add the text `maptime.io/` and your city's name. Example: `maptime.io/portland`. No other formatting is needed and you won't need the `http:` or any other text here.
 
 ### Content types
 
@@ -54,7 +53,7 @@ Posts are like blog posts. These are great for meetup follow ups or posts that d
 
 - [Create an issue](https://github.com/maptime/starter/issues) on the Starter repo and we'll respond to it.
 - The site is powered by Jekyll. To make custom tweaks to your own site, you should read it's [documentation](http://jekyllrb.com/docs/home/).
-- Starter makes the assumption you will be running the site on GitHub pages. You can learn more about [GitHub Pages here](https://guides.github.com/features/pages/). 
+- Starter makes the assumption you will be running the site on GitHub pages. You can learn more about [GitHub Pages here](https://guides.github.com/features/pages/).
 
 ## Examples in the wild
 

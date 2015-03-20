@@ -13,7 +13,7 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
 | baseurl | Yes | post | This value should always be the same. |
 | permalink | No | how urls are generated | You can learn more about how they are generated [here](http://jekyllrb.com/docs/permalinks/). |
 | markdown | No | Determines which markdown engine is used | Generally, you don't need to touch this field for your own needs. |
-| paginate | Yes | Number of posts on the front page | Starter supports pagintaion. Control the number of posts on a given page by changing this value |
+| paginate | Yes | Number of posts on the front page | Starter supports pagination. Control the number of posts on a given page by changing this value |
 | repo | Yes | Name of the repo on GitHub | As an example, the name of the starter repo is `starter` |
 | github_org | Yes | Name of the organization or username on GitHub | Most of the time this will be 'maptime' |
 | maptime: chapter | Yes | Name of your MapTime meetup | |
@@ -52,7 +52,7 @@ Posts are like blog posts. These are great for meetup follow ups or posts that d
 ## Help resources
 
 - [Create an issue](https://github.com/maptime/starter/issues) on the Starter repo and we'll respond to it.
-- The site is powered by Jekyll. To make custom tweaks to your own site, you should read it's [documentation](http://jekyllrb.com/docs/home/).
+- The site is powered by Jekyll. To make custom tweaks to your own site, you should read its [documentation](http://jekyllrb.com/docs/home/).
 - Starter makes the assumption you will be running the site on GitHub pages. You can learn more about [GitHub Pages here](https://guides.github.com/features/pages/).
 
 ## Examples in the wild

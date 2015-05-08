@@ -1,6 +1,6 @@
 ## Maptime Starter site
 
-Hosting your own Maptime chapter website? **Starter** is a simple Jekyll theme and is desgined to be easily forked and tweaked to suit your own needs. [Jekyll](http://jekyllrb.com/) is a simple, blog-aware, static site generator for personal, project, or organization sites.  Once cloned into the [Maptime organization](https://github.com/maptime) your site will be hosted at `http://maptime.io/**chapter**` where `**chapter**` is the name of your repo.
+Hosting your own Maptime chapter website? **Starter** is a simple Jekyll theme and is desgined to be easily forked and tweaked to suit your own needs. [Jekyll](http://jekyllrb.com/) is a simple, blog-aware, static site generator for personal, project, or organization sites.  Once cloned into the [Maptime organization](https://github.com/maptime) your site will be hosted at `http://maptime.io/__chapter__` where `**chapter**` is the name of your repo.
 
 * If we've finished onboarding your new chapter into the Maptime organization then should already have this template cloned into the `gh-pages` branch of your chapter repo and have been given you privleges to push to it.  Please skip ahead and begin to customize your site.  
 

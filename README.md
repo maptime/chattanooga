@@ -4,7 +4,7 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
 
 ## Creating a new chapter
 
-1. [Fill out the form here](http://maptime.io/start/). Fill in the name of your Maptime chapter, who the organizers are by their GitHub username, and a handful of other questions.
+1. [Create a ticket here](https://github.com/maptime/starter/issues/new/). Outline the name of your Maptime chapter and who the organizers are by their GitHub username.
 2. Assign the ticket or mention @geografa. He can create a new repository under the Maptime organization account and include your chapter's organizers to administer it.
 3. Edit the [`_config.yml`](https://github.com/maptime/starter/blob/gh-pages/_config.yml) file. Here's a quick rundown of the configuration options.
 

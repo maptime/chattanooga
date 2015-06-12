@@ -1,4 +1,4 @@
-Copyright (c) 2014-2015, Maptime
+Copyright (c) 2014-2015, Time for Maps
 
 All rights reserved.
 

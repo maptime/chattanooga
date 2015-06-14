@@ -114,6 +114,8 @@ Have you used this starter to create your own meetup site? Let us know (or start
 
 - [MaptimeDC](http://maptime.io/dc/) ([repo](https://github.com/maptime/dc/tree/gh-pages))
 - [Maptime Toronto](http://maptime.io/toronto/) ([repo](https://github.com/maptime/toronto))
+- [Maptime Madison](http://maptime.io/madison/) ([repo](https://github.com/maptime/madison/tree/gh-pages))
+- [Maptime MSP](http://maptime.io/msp/) ([repo](https://github.com/maptime/msp/tree/gh-pages))
 
 
 ### License

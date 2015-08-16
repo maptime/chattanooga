@@ -42,6 +42,7 @@ we're on Twitter: [@maptimeCHA](https://twitter.com/maptimecha)
 
 Feel free to comment or question through a [Github Issue](https://github.com/maptime/chattanooga/issues/new)!
 
-- @jden / [twitter](https://twitter.com/_jden)
+- @rjhale / [twitter] (https://twitter.com/rjhale)
+- @jden / [twitter](https://twitter.com/jden415)
 - @kylegordy / [twitter](https://twitter.com/kylegordy)
 - @seabre / [twitter](https://twitter.com/seabre)
